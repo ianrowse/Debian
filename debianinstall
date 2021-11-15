@@ -1,0 +1,14 @@
+#!/bin/bash
+
+sudo apt install git -y
+sudo apt install brave -y
+sudo apt install btop -y
+sudo apt install firefox -y
+sudo apt install sublime-text -y
+sudo apt install vlc -y
+sudo apt install bleachbit -y
+sudo apt install veracrypt -y
+sudo apt install timeshift -y
+sudo apt install virtualbox -y
+sudo apt install putty -y
+sudo apt install gwenview -y
